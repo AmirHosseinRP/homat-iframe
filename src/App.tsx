@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <nav className="flex justify-center items-center border-b border-gray-200">
-        <div className="gap-6 p-4 flex flex-row justify-start items-center w-full max-w-[100rem]">
+        <div className="gap-6 p-4 flex flex-row justify-start items-center w-full max-w-7xl">
           <div className="flex gap-4 items-center">
             <svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path
